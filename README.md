@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Crisheight
+- 👋 Hi, I’m Cris 
 - 👀 I love eSports, design, and webdev
 - 🌱 I’m currently learning React, and exploring UI guidelines
 - 💞️ I’m looking to collaborate on cool websites, or opensource projects
-- 📫 How to reach me @Crisheight on socials and Twitch
+- 📫 You can reach me at @Crisheight on socials and Twitch
 - ✔️ Business inqueries: crisheight@gmail.com 
 
 <!---
