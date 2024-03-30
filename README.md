@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cris 
-- 👀 I love exploring languages, design, and webdev
-- 🌱 I’m currently learning React, and gaining a deeper handle on CS fundamentals
-- 💞️ I’m looking to collaborate on opensource projects
+- 👀 I love exploring languages, design principles, and foundational skills
+- 🌱 I’m currently working with Java, C++, and Javscript
+- 💞️ I’m looking for my first internship
 - 📫 You can reach me at @Crisheight on all social platforms
 - ✔️ Business inqueries: crisheight@gmail.com 
 
