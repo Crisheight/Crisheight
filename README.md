@@ -9,16 +9,23 @@ Java, C++, JavaScript, Python, Swift
 Development:
 
 Frontend: React, Tailwind, Html/CSS 
+
 Backend: Node.js, Java (Spring)
+
 Version Control: Git 
+
 Containerization: Docker
+
 Tooling: NPM, Express.js, Next.js, Spring Boot
 
 Machine Learning:
 
 Libraries: SciKit-Learn, TensorFlow
+
 Data Manipulation: Pandas, Numpy
+
 Data Visualization: matplotlib, Seaborn
+
 Tooling: PIP, virtualenv, Anaconda
 
 Database Management: 
@@ -36,6 +43,7 @@ Familiar with Agile and Waterfall methodologies
 Academic Achievements:
 
 Official member of Phi Theta Kappa Honor Society
+
 Occupational Skills Award in Computer Networking
 
 Ongoing Learning: 
