@@ -4,51 +4,51 @@ Business inqueries: crisheight@gmail.com
 
 Programming Languages:
 
-Java, C++, JavaScript, Python, Swift
+  Java, C++, JavaScript, Python, Swift
 
 Development:
 
-Frontend: React, Tailwind, Html/CSS 
+  Frontend: React, Tailwind, Html/CSS 
 
-Backend: Node.js, Java (Spring)
+  Backend: Node.js, Java (Spring)
 
-Version Control: Git 
+  Version Control: Git 
 
-Containerization: Docker
+  Containerization: Docker
 
-Tooling: NPM, Express.js, Next.js, Spring Boot
+  Tooling: NPM, Express.js, Next.js, Spring Boot
 
 Machine Learning:
 
-Libraries: SciKit-Learn, TensorFlow
+  Libraries: SciKit-Learn, TensorFlow
 
-Data Manipulation: Pandas, Numpy
+  Data Manipulation: Pandas, Numpy
 
-Data Visualization: matplotlib, Seaborn
+  Data Visualization: matplotlib, Seaborn
 
-Tooling: PIP, virtualenv, Anaconda
+  Tooling: PIP, virtualenv, Anaconda
 
 Database Management: 
 
-Oracle SQL, MongoDB
+  Oracle SQL, MongoDB
 
 Cloud Computing: 
 
-AWS EC2 deployment, load balancers, and template management
+  AWS EC2 deployment, load balancers, and template management
 
 Project Management: 
 
-Familiar with Agile and Waterfall methodologies
+  Familiar with Agile and Waterfall methodologies
 
 Academic Achievements:
 
-Official member of Phi Theta Kappa Honor Society
+  Official member of Phi Theta Kappa Honor Society
 
-Occupational Skills Award in Computer Networking
+  Occupational Skills Award in Computer Networking
 
 Ongoing Learning: 
 
-Exploring topics like cloud platform tools, UI/UX, frameworks, and languages to expand my expertise.
+  Exploring topics like cloud platform tools, UI/UX, frameworks, and languages to expand my expertise.
 
 <!---
 Crisheight/Crisheight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
