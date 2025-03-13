@@ -1,4 +1,4 @@
-Software Development Senior at Austin Community College. Seeking internship opportunities where I can turn my passion into a Java object reference.
+Software Development Senior at Austin Community College. Seeking internship opportunities where I can turn my passion into a Java bytecode.
 
 Business inqueries: crisheight@gmail.com
 
