@@ -1,4 +1,4 @@
-Software Development senior at Austin Community College actively seeking an internship where I can apply what I’ve learned in a bigger setting. I’m driven by a genuine curiosity for how systems work, whether it’s training a machine learning model, writing clean backend logic, or implementing new technologies. I enjoy the process of turning abstract ideas into practical, working code that solves real problems.
+Software Development senior at Austin Community College. Actively seeking an internship. I’m driven by a curiosity for how systems work and the process of turning abstract ideas into working code that solves real world problems.
 
 Business inqueries: crisheight@gmail.com
 
