@@ -1,4 +1,4 @@
-Software Development senior at Austin Community College. Actively seeking an internship. I’m driven by a curiosity for how systems work and the process of turning abstract ideas into working code that solves real world problems.
+Software Development senior at Austin Community College. US Citizen actively seeking an internship or junior role. I’m driven by a curiosity for how systems work and the process of turning abstract ideas into working code that solves real world problems.
 
 Business inqueries: crisheight@gmail.com
 
